@@ -1280,3 +1280,40 @@ body.dark-mode .stats .stat-label {
 body.dark-mode .stats .stat-icon {
     color: #667eea !important;
 }
+/* Dark Mode Skills Section Fix */
+body.dark-mode .skills {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+}
+
+body.dark-mode .skill-category {
+    background: #2d2d2d;
+}
+
+body.dark-mode .skill-category h3 {
+    color: #667eea;
+    border-bottom-color: #667eea;
+}
+
+body.dark-mode .skill-info {
+    color: white;
+}
+
+body.dark-mode .skill-info span {
+    color: white;
+}
+
+body.dark-mode .skill-icon {
+    color: #667eea;
+}
+
+body.dark-mode .skill-bar {
+    background: #444;
+}
+
+body.dark-mode .skill-progress {
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+}
+
+body.dark-mode .skill-info .skill-name {
+    color: white;
+}
