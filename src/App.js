@@ -12,6 +12,7 @@ import { SiTailwindcss, SiMongodb, SiExpress, SiPostgresql } from 'react-icons/s
 
 import profilePic from './profile.jpeg';
 import emailjs from '@emailjs/browser';
+import resumeFile from './RESUME.pdf';
 // Import all certificates (PDF and images)
 import cert1 from './certificates/cert1.png';
 import cert2 from './certificates/cert2.png';
@@ -105,10 +106,8 @@ const [activeCategory, setActiveCategory] = useState('cryptography');
   };
 
  const handleDownload = () => {
-  // Direct download from public folder
-  const pdfUrl = '/RESUME.pdf';
   const link = document.createElement('a');
-  link.href = pdfUrl;
+  link.href = resumeFile;
   link.download = 'Chiranjeevi_Bathula_Resume.pdf';
   document.body.appendChild(link);
   link.click();
