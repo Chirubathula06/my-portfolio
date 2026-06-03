@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.ec6d1ccd.css",
-    "main.js": "/my-portfolio/static/js/main.780b0df7.js",
+    "main.css": "/my-portfolio/static/css/main.06256c2a.css",
+    "main.js": "/my-portfolio/static/js/main.d29547ed.js",
     "static/media/income.png": "/my-portfolio/static/media/income.adb700e6a27a1ac6d6e0.png",
     "static/media/cert9.png": "/my-portfolio/static/media/cert9.edd94f375cde8604ab1f.png",
     "static/media/ai-startup-launchpad.png": "/my-portfolio/static/media/ai-startup-launchpad.b55d166f6b8a9c80c9af.png",
@@ -17,24 +17,26 @@
     "static/media/cert11.png": "/my-portfolio/static/media/cert11.04f2e0ea017d3be37149.png",
     "static/media/cert4.png": "/my-portfolio/static/media/cert4.7b198cb26a8ff0af700e.png",
     "static/media/cert12.png": "/my-portfolio/static/media/cert12.8df0a3601b8fce3e6e5a.png",
+    "static/media/cert17.jpeg": "/my-portfolio/static/media/cert17.adcdc5d34c5bd86108c6.jpeg",
+    "static/media/cert18.jpeg": "/my-portfolio/static/media/cert18.d7c14ff90e4ea4c7d03f.jpeg",
     "static/media/cert16.jpeg": "/my-portfolio/static/media/cert16.f74481f8aab8a9dce191.jpeg",
-    "static/media/RESUME.pdf": "/my-portfolio/static/media/RESUME.ea9c4b9d7288fa0dcd1d.pdf",
     "static/media/cert10.png": "/my-portfolio/static/media/cert10.c48ca6c57a1781ee633e.png",
     "static/media/cert15.jpeg": "/my-portfolio/static/media/cert15.036bd13a8bf5a3979f40.jpeg",
     "static/media/website-rag-chatbot.png": "/my-portfolio/static/media/website-rag-chatbot.e7075329d91b31c8d21d.png",
     "static/media/cert8.png": "/my-portfolio/static/media/cert8.f8ccad6c7c46ebfaf8f8.png",
     "static/media/profile.jpeg": "/my-portfolio/static/media/profile.f5f3e3a1dfd422ea6718.jpeg",
+    "static/media/RESUME.pdf": "/my-portfolio/static/media/RESUME.d79df7042c1b9714efad.pdf",
     "static/media/cert7.png": "/my-portfolio/static/media/cert7.cbd4d9d71c131a3e5b56.png",
     "static/media/rag-ai-assistant.png": "/my-portfolio/static/media/rag-ai-assistant.8df6421acd20ee185e45.png",
     "static/media/youtube-learning-assistant.png": "/my-portfolio/static/media/youtube-learning-assistant.16e3573ad2df69e35dfa.png",
     "static/media/ai-email-assistant.png": "/my-portfolio/static/media/ai-email-assistant.2d3b0744246646fb26e6.png",
     "static/media/telegram-ai-bot.png": "/my-portfolio/static/media/telegram-ai-bot.5d17e9863d2fe5cefe16.png",
     "index.html": "/my-portfolio/index.html",
-    "main.ec6d1ccd.css.map": "/my-portfolio/static/css/main.ec6d1ccd.css.map",
-    "main.780b0df7.js.map": "/my-portfolio/static/js/main.780b0df7.js.map"
+    "main.06256c2a.css.map": "/my-portfolio/static/css/main.06256c2a.css.map",
+    "main.d29547ed.js.map": "/my-portfolio/static/js/main.d29547ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec6d1ccd.css",
-    "static/js/main.780b0df7.js"
+    "static/css/main.06256c2a.css",
+    "static/js/main.d29547ed.js"
   ]
 }
